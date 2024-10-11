@@ -5,7 +5,7 @@ const JobSchema = new mongoose.Schema(
     company: {
       type: String,
       required: [true, 'Please provie a company name'],
-      maxlength: 50,
+      maxlength: 60,
     },
     position: {
       type: String,
