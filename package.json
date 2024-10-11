@@ -1,7 +1,7 @@
 {
-  "name": "06-jobs-api",
+  "name": "c",
   "version": "1.0.0",
-  "description": "",
+  "description": "The starter is a copy of jobs-api final project, just with additional data.",
   "main": "app.js",
   "scripts": {
     "start": "nodemon app.js",
